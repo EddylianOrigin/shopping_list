@@ -32,6 +32,6 @@ By following these steps, you can successfully set up and run this Django projec
 
 ## Learn more
 
-To learn Django, check out the https://docs.djangoproject.com/en/5.2/
+To learn Django, check out the Documentation::> https://docs.djangoproject.com/en/5.2/
 
 Feel free to extend the project and let me know about any changes or progress you've made by offering me some fruit juice just for fun. :)
