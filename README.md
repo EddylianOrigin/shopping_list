@@ -11,22 +11,24 @@ Before to start, you will need to install these:
 
 ## Necessary Steps to get access to the project 
 - First of all, clone the project on your local device using the git command :
-
-  * Git clone "url of the repository"
-
+  ```
+   Git clone "url of the repository"
+  ```
 - Open the project using VScode or another python IDE of your choice.
   
 - Open the terminal in the IDE to the path corresponding to the project.
 
 ## Install Django: Use pip to install Django within the virtual environment:
 
-Run this command on the opened terminal:
+- Run this command on the opened terminal:
+  ```
+  pip install django
+  ```
 
-- pip install django
-
-To verify that everything is set up correctly, run the development server:
-
-- python manage.py runserver
+- To verify that everything is set up correctly, run the development server:
+  ```
+  python manage.py runserver
+  ```
 
 By following these steps, you can successfully set up and run this Django project.
 
